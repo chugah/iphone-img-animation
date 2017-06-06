@@ -1,0 +1,494 @@
+Timg-animation
+v7
+r0
+t518451379.814297
+cCheck dependencies
+cProcessInfoPlistFile /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/Info.plist img_animation-Info.plist
+cCompileXIB /Users/sbarghshoon/Desktop/img-animation/MainWindow.xib
+cCompileXIB /Users/sbarghshoon/Desktop/img-animation/img_animationViewController.xib
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-five.jpg ../xcode-animation/0_images/yoga-five.jpg
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-four.jpg ../xcode-animation/0_images/yoga-four.jpg
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-one.jpg ../xcode-animation/0_images/yoga-one.jpg
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-six.jpg ../xcode-animation/0_images/yoga-six.jpg
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-three.jpg ../xcode-animation/0_images/yoga-three.jpg
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-two.jpg ../xcode-animation/0_images/yoga-two.jpg
+cCpResource build/Debug-iphonesimulator/img-animation.app/yoga-zero.jpg ../xcode-animation/0_images/yoga-zero.jpg
+cProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch.gch img_animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/img-animation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationAppDelegate.o /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationViewController.o /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation normal i386
+cGenerateDSYMFile /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app.dSYM /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation
+cTouch /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-five.jpg
+c000000005936B2590000000000008CA6
+t1496756825
+s36006
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-four.jpg
+c000000005936B1BD000000000000949D
+t1496756669
+s38045
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-one.jpg
+c000000005936B0B80000000000008A14
+t1496756408
+s35348
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-six.jpg
+c000000005936B2A6000000000000788F
+t1496756902
+s30863
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-three.jpg
+c000000005936B1690000000000007E95
+t1496756585
+s32405
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-two.jpg
+c000000005936B1010000000000007BFF
+t1496756481
+s31743
+
+N/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-zero.jpg
+c000000005936AF520000000000008B3D
+t1496756050
+s35645
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-five.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-four.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-one.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-six.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-three.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-two.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/../yoga-zero.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.h
+c000000005936ADB70000000000000205
+t1496755639
+s517
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m
+c000000005936ADB70000000000000ACA
+t1496755639
+s2762
+i"img_animationAppDelegate.h"
+i"img_animationViewController.h"
+
+N/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.h
+c000000005936B39E0000000000000190
+t1496757150
+s400
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m
+c000000005936B92D00000000000008AB
+t1496758573
+s2219
+i"img_animationViewController.h"
+
+N/Users/sbarghshoon/Desktop/img-animation/MainWindow.xib
+c000000005936ADB70000000000004E71
+t1496755639
+s20081
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app
+t1496758579
+s476
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app.dSYM
+t1496758579
+s102
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/Info.plist
+t1496758115
+s615
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/MainWindow.nib
+t1496758115
+s1693
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/PkgInfo
+t1496758115
+s8
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation
+t1496758579
+s18420
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img_animationViewController.nib
+t1496758535
+s2387
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-five.jpg
+t1496758289
+s36006
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-four.jpg
+t1496758289
+s38045
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-one.jpg
+t1496758289
+s35348
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-six.jpg
+t1496758289
+s30863
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-three.jpg
+t1496758289
+s32405
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-two.jpg
+t1496758289
+s31743
+
+N/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/yoga-zero.jpg
+t1496758289
+s35645
+
+N/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img-animation.LinkFileList
+c000000005936B76300000000000001C3
+t1496758115
+s451
+
+N/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationAppDelegate.o
+t1496758116
+s51712
+
+N/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationViewController.o
+t1496758579
+s44184
+
+N/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/main.o
+t1496758116
+s6316
+
+N/Users/sbarghshoon/Desktop/img-animation/img_animationViewController.xib
+c000000005936B8E80000000000005C57
+t1496758504
+s23639
+
+N/Users/sbarghshoon/Desktop/img-animation/img_animation_Prefix.pch
+c000000005936ADB700000000000000C3
+t1496755639
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/img-animation/main.m
+c000000005936ADB70000000000000171
+t1496755639
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch.gch
+t1496758116
+s15814064
+
+Nimg_animation-Info.plist
+c000000005936ADB7000000000000038D
+t1496755639
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies518451379#518451379#0(0"0(0#1#0"8615233376#0"0#
+
+CCompileC build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationAppDelegate.o /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s518450916.272130
+e518450916.391905
+r1
+xCompileC
+xbuild/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationAppDelegate.o
+x/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m518450916#518450916#0(0"0(0#0#75"/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m8612448512#2104"    cd /Users/sbarghshoon/Desktop/img-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch -c /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationAppDelegate.m -o /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationAppDelegate.o0#
+
+CCompileC build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationViewController.o /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s518451379.706300
+e518451379.784239
+r1
+xCompileC
+xbuild/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationViewController.o
+x/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m518451379#518451379#0(0"0(0#0#78"/Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m8615647008#2110"    cd /Users/sbarghshoon/Desktop/img-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch -c /Users/sbarghshoon/Desktop/img-animation/Classes/img_animationViewController.m -o /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img_animationViewController.o0#
+
+CCompileC build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/img-animation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s518450916.271443
+e518450916.380054
+r1
+xCompileC
+xbuild/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/main.o
+x/Users/sbarghshoon/Desktop/img-animation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sbarghshoon/Desktop/img-animation/main.m518450916#518450916#0(0"0(0#0#47"/Users/sbarghshoon/Desktop/img-animation/main.m8613128160#2056"    cd /Users/sbarghshoon/Desktop/img-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch -c /Users/sbarghshoon/Desktop/img-animation/main.m -o /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/img-animation/MainWindow.xib
+s518450915.320711
+e518450915.576299
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/img-animation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib518450915#518450915#0(0"0(0#0#55"/Users/sbarghshoon/Desktop/img-animation/MainWindow.xib8616017920#582"    cd /Users/sbarghshoon/Desktop/img-animation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/MainWindow.nib /Users/sbarghshoon/Desktop/img-animation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/img-animation/img_animationViewController.xib
+s518451335.388983
+e518451335.650139
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/img-animation/img_animationViewController.xib
+lSLF07#2@42"CompileXIB img_animationViewController.xib518451335#518451335#0(0"0(0#0#72"/Users/sbarghshoon/Desktop/img-animation/img_animationViewController.xib8615357632#616"    cd /Users/sbarghshoon/Desktop/img-animation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img_animationViewController.nib /Users/sbarghshoon/Desktop/img-animation/img_animationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-five.jpg ../xcode-animation/0_images/yoga-five.jpg
+s518451089.191622
+e518451089.199186
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-five.jpg
+x../xcode-animation/0_images/yoga-five.jpg
+lSLF07#2@46"Copy ../xcode-animation/0_images/yoga-five.jpg518451089#518451089#0(0"0(0#0#82"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-five.jpg8605852512#511"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-five.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-five.jpg ../yoga-five.jpg
+s518450997.119839
+e518450997.131082
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-five.jpg
+x../yoga-five.jpg
+opbxcp: yoga-five.jpg: No such file or directory
+lSLF07#2@21"Copy ../yoga-five.jpg518450997#518450997#0(48"pbxcp: yoga-five.jpg: No such file or directory1(4@47"pbxcp: yoga-five.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#57"/Users/sbarghshoon/Desktop/img-animation/../yoga-five.jpg8615195776#486"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-five.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-four.jpg ../xcode-animation/0_images/yoga-four.jpg
+s518451089.192055
+e518451089.199722
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-four.jpg
+x../xcode-animation/0_images/yoga-four.jpg
+lSLF07#2@46"Copy ../xcode-animation/0_images/yoga-four.jpg518451089#518451089#0(0"0(0#0#82"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-four.jpg8604317536#511"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-four.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-four.jpg ../yoga-four.jpg
+s518450997.119316
+e518450997.127514
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-four.jpg
+x../yoga-four.jpg
+opbxcp: yoga-four.jpg: No such file or directory
+lSLF07#2@21"Copy ../yoga-four.jpg518450997#518450997#0(48"pbxcp: yoga-four.jpg: No such file or directory1(4@47"pbxcp: yoga-four.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#57"/Users/sbarghshoon/Desktop/img-animation/../yoga-four.jpg8600221664#486"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-four.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-one.jpg ../xcode-animation/0_images/yoga-one.jpg
+s518451089.192482
+e518451089.200068
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-one.jpg
+x../xcode-animation/0_images/yoga-one.jpg
+lSLF07#2@45"Copy ../xcode-animation/0_images/yoga-one.jpg518451089#518451089#0(0"0(0#0#81"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-one.jpg8604039616#510"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-one.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-one.jpg ../yoga-one.jpg
+s518450997.117976
+e518450997.125945
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-one.jpg
+x../yoga-one.jpg
+opbxcp: yoga-one.jpg: No such file or directory
+lSLF07#2@20"Copy ../yoga-one.jpg518450997#518450997#0(47"pbxcp: yoga-one.jpg: No such file or directory1(4@46"pbxcp: yoga-one.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#56"/Users/sbarghshoon/Desktop/img-animation/../yoga-one.jpg8610301312#485"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-one.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-six.jpg ../xcode-animation/0_images/yoga-six.jpg
+s518451089.192907
+e518451089.200706
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-six.jpg
+x../xcode-animation/0_images/yoga-six.jpg
+lSLF07#2@45"Copy ../xcode-animation/0_images/yoga-six.jpg518451089#518451089#0(0"0(0#0#81"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-six.jpg8603470560#510"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-six.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-six.jpg ../yoga-six.jpg
+s518450997.120394
+e518450997.128923
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-six.jpg
+x../yoga-six.jpg
+opbxcp: yoga-six.jpg: No such file or directory
+lSLF07#2@20"Copy ../yoga-six.jpg518450997#518450997#0(47"pbxcp: yoga-six.jpg: No such file or directory1(4@46"pbxcp: yoga-six.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#56"/Users/sbarghshoon/Desktop/img-animation/../yoga-six.jpg8612725536#485"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-six.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-three.jpg ../xcode-animation/0_images/yoga-three.jpg
+s518451089.193330
+e518451089.200820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-three.jpg
+x../xcode-animation/0_images/yoga-three.jpg
+lSLF07#2@47"Copy ../xcode-animation/0_images/yoga-three.jpg518451089#518451089#0(0"0(0#0#83"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-three.jpg8602728896#512"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-three.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-three.jpg ../yoga-three.jpg
+s518450997.118757
+e518450997.126828
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-three.jpg
+x../yoga-three.jpg
+opbxcp: yoga-three.jpg: No such file or directory
+lSLF07#2@22"Copy ../yoga-three.jpg518450997#518450997#0(49"pbxcp: yoga-three.jpg: No such file or directory1(4@48"pbxcp: yoga-three.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#58"/Users/sbarghshoon/Desktop/img-animation/../yoga-three.jpg8613092480#487"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-three.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-two.jpg ../xcode-animation/0_images/yoga-two.jpg
+s518451089.193895
+e518451089.200587
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-two.jpg
+x../xcode-animation/0_images/yoga-two.jpg
+lSLF07#2@45"Copy ../xcode-animation/0_images/yoga-two.jpg518451089#518451089#0(0"0(0#0#81"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-two.jpg8601190688#510"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-two.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-two.jpg ../yoga-two.jpg
+s518450997.118366
+e518450997.127189
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-two.jpg
+x../yoga-two.jpg
+opbxcp: yoga-two.jpg: No such file or directory
+lSLF07#2@20"Copy ../yoga-two.jpg518450997#518450997#0(47"pbxcp: yoga-two.jpg: No such file or directory1(4@46"pbxcp: yoga-two.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#56"/Users/sbarghshoon/Desktop/img-animation/../yoga-two.jpg8613120992#485"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-two.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-zero.jpg ../xcode-animation/0_images/yoga-zero.jpg
+s518451089.191083
+e518451089.199038
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-zero.jpg
+x../xcode-animation/0_images/yoga-zero.jpg
+lSLF07#2@46"Copy ../xcode-animation/0_images/yoga-zero.jpg518451089#518451089#0(0"0(0#0#82"/Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-zero.jpg8612421664#511"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../xcode-animation/0_images/yoga-zero.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/img-animation.app/yoga-zero.jpg ../yoga-zero.jpg
+s518450997.117499
+e518450997.125587
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/img-animation.app/yoga-zero.jpg
+x../yoga-zero.jpg
+opbxcp: yoga-zero.jpg: No such file or directory
+lSLF07#2@21"Copy ../yoga-zero.jpg518450997#518450997#0(48"pbxcp: yoga-zero.jpg: No such file or directory1(4@47"pbxcp: yoga-zero.jpg: No such file or directory518450997#18446744073709551615#0#0(6@0"518450997#0#0#0#0#0"0(0#0#57"/Users/sbarghshoon/Desktop/img-animation/../yoga-zero.jpg8612090080#486"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/img-animation/../yoga-zero.jpg /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app1#
+
+CGenerateDSYMFile /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app.dSYM /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation
+s518451379.800858
+e518451379.812228
+r1
+xGenerateDSYMFile
+x/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app.dSYM
+x/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/img-animation.app.dSYM build/Debug-iphonesimulator/img-animation.app/img-animation518451379#518451379#0(0"0(0#0#100"/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation8615206592#407"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation -o /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app.dSYM0#
+
+CLd /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation normal i386
+s518451379.784303
+e518451379.800790
+r1
+xLd
+x/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation
+xnormal
+xi386
+lSLF07#2@105"Link /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation518451379#518451379#0(0"0(0#0#0"8615685568#940"    cd /Users/sbarghshoon/Desktop/img-animation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator -F/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator -filelist /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/Objects-normal/i386/img-animation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/img-animation0#
+
+CProcessInfoPlistFile /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/Info.plist img_animation-Info.plist
+s518450915.285672
+e518450915.320630
+r1
+xProcessInfoPlistFile
+x/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/Info.plist
+ximg_animation-Info.plist
+lSLF07#2@32"Process img_animation-Info.plist518450915#518450915#0(0"0(0#0#65"/Users/sbarghshoon/Desktop/img-animation/img_animation-Info.plist32933040433463412#503"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility img_animation-Info.plist -genpkginfo /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app/Info.plist0#
+
+CProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch.gch img_animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s518450915.576394
+e518450916.271373
+r1
+xProcessPCH
+x/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch.gch
+ximg_animation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile img_animation_Prefix.pch518450915#518450916#0(0"0(0#0#65"/Users/sbarghshoon/Desktop/img-animation/img_animation_Prefix.pch8607906557913298944#1940"    cd /Users/sbarghshoon/Desktop/img-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/img-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/img-animation/build/img-animation.build/Debug-iphonesimulator/img-animation.build/DerivedSources -c /Users/sbarghshoon/Desktop/img-animation/img_animation_Prefix.pch -o /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/img_animation_Prefix-dhmuwzfhyngzbjavtpslnueyddrj/img_animation_Prefix.pch.gch0#
+
+CTouch /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app
+s518451379.812288
+e518451379.814263
+r1
+xTouch
+x/Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app
+lSLF07#2@92"Touch /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app518451379#518451379#0(0"0(0#0#0"8613963936#288"    cd /Users/sbarghshoon/Desktop/img-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sbarghshoon/Desktop/img-animation/build/Debug-iphonesimulator/img-animation.app0#
+
